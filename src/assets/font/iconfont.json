@@ -1,0 +1,16 @@
+{
+  "id": "2665466",
+  "name": "评论",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "19683233",
+      "name": "展 开",
+      "font_class": "zhankai2",
+      "unicode": "e633",
+      "unicode_decimal": 58931
+    }
+  ]
+}
